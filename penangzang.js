@@ -8,7 +8,7 @@
 
     var direct_link_ads = rChoice([
                             "https://butterflypronounceditch.com/wm1ja4md4h?key=f00ab318503571edee782252de47bc10"
-            
+                        ]);
     var ars             = rChoice([
                             "https://penangzang.my.id"
                         ]);
